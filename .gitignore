@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test run reports (may contain account screenshots)
+reports/
+
+# Claude plans
+.claude/plans/
