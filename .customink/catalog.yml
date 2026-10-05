@@ -1,4 +1,5 @@
-name: Roamer
+name: roamer
+language: Markdown
 owner: ecomlabs
 purpose:
 - app
